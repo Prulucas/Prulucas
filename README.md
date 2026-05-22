@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello, I'm Pedro Lucas
 
-<!--
-**Prulucas/Prulucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer focused on REST APIs with Node.js, Express and Django.  
+🚀 Passionate about building scalable applications, solving problems and learning new technologies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- Node.js
+- Express
+- Django
+- PostgreSQL / MySQL
+- JavaScript
+- JWT Authentication
+- HTML & CSS
+- Git & GitHub
+
+---
+
+## 📚 Currently
+
+- Working with technical support and systems analysis
+- Studying software development and project management
+- Building backend and web applications focused on REST APIs
+
+---
+
+## 🎯 Goals
+
+Seeking opportunities as a Junior Backend Developer to improve my skills and contribute to real-world projects.
+
+---
+
+## 📫 Contact
+
+- Email: plbrandsilva@gmail.com
